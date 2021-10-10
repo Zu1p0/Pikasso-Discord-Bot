@@ -114,5 +114,5 @@ async def help(ctx, comm=None):
     msg = await ctx.send(embed=embed)
 
 
-bot.run('ODMzNzIyMTYzMTMxMzE4Mjgz.YH2eRQ.nzJ9Y3F3QJmsl0rSIyJ68D9pH_c')
+bot.run('token')
 
